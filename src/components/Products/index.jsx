@@ -1,5 +1,5 @@
-import { Cart, Img, ProductWrapper, Image, Ul, Li, Prices, H5, Small, ProductTitle, Links, ProductBody } from "./ProductElements";
-import { Container, Row, Col, Title,TitleH1,TitleH6, Button  } from "../Utils/Elements";
+import { Cart, Img, ProductWrapper, Image, Ul, Li, Prices, H5, Small, ProductTitle,ProductBody } from "./ProductElements";
+import { Container, Row, Col, Title,TitleH1,TitleH6} from "../Utils/Elements";
 import w1 from "../../assets/images/w1.png"
 import { FaStar } from "react-icons/fa";
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { About, AboutContainer,Row,Col,Title,AboutH1,AboutH6, AboutCart,CartIcon, CartH4, Cart, CartP } from './AboutElements';
+import { About, AboutContainer,Row,Col,Title,AboutH1,AboutH6, AboutCart,CartIcon, CartH4, CartP } from './AboutElements';
 import { AiFillSignal } from "react-icons/ai";
 const AboutSection = () => {
     return (
