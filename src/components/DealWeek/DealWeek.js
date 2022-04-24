@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-import { Swiper } from "swiper/react";
 
 export const DealSection = styled.div`
   background: url(${(props) => props.bg});
